@@ -1,6 +1,6 @@
 ### Hello there ! 👋
 
-📌 Student at Grenoble INP ENSIMAG 👨‍🎓
+📌 Student at Grenoble INP Ensimag 👨‍🎓
 
 📌 Works at Orange Labs Service in apprentice 👨‍💻
 
